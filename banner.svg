@@ -1,0 +1,92 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Joemon Johnson - Identity and Access Management Specialist">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="45%" stop-color="#101a3a"/>
+      <stop offset="100%" stop-color="#1b2a5e"/>
+    </linearGradient>
+    <!-- Accent gradient for text/shapes -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g stroke="#2a3a6e" stroke-width="1" opacity="0.35">
+    <path d="M0 80 H1200 M0 160 H1200 M0 240 H1200"/>
+    <path d="M150 0 V320 M300 0 V320 M450 0 V320 M600 0 V320 M750 0 V320 M900 0 V320 M1050 0 V320"/>
+  </g>
+
+  <!-- Floating security nodes -->
+  <g fill="url(#accent)" opacity="0.5">
+    <circle cx="980" cy="70" r="4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="130" r="3"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="220" r="5"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="250" r="3"><animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Shield / lock emblem -->
+  <g transform="translate(1000, 95)" filter="url(#glow)">
+    <path d="M70 10 L120 30 V75 C120 115 95 140 70 152 C45 140 20 115 20 75 V30 Z"
+          fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <rect x="52" y="70" width="36" height="30" rx="5" fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M58 70 V60 a12 12 0 0 1 24 0 V70" fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <circle cx="70" cy="83" r="4" fill="url(#accent)"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+                      values="0 0; 0 -6; 0 0" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Name -->
+  <text x="70" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">
+    Joemon Johnson
+  </text>
+
+  <!-- Role -->
+  <text x="72" y="165" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="url(#accent)">
+    Identity &amp; Access Management (IAM) Specialist
+  </text>
+
+  <!-- Animated underline -->
+  <rect x="72" y="180" width="520" height="3" rx="1.5" fill="url(#line)">
+    <animate attributeName="width" values="0;520;520" dur="2s" begin="0.3s" fill="freeze"/>
+  </rect>
+
+  <!-- Keyword chips -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500">
+    <g transform="translate(72, 215)">
+      <rect width="86" height="34" rx="17" fill="#1e2a55" stroke="#38bdf8" stroke-opacity="0.5"/>
+      <text x="43" y="22" text-anchor="middle" fill="#7dd3fc">Okta</text>
+    </g>
+    <g transform="translate(170, 215)">
+      <rect width="120" height="34" rx="17" fill="#1e2a55" stroke="#818cf8" stroke-opacity="0.5"/>
+      <text x="60" y="22" text-anchor="middle" fill="#a5b4fc">Azure AD / Entra</text>
+    </g>
+    <g transform="translate(302, 215)">
+      <rect width="120" height="34" rx="17" fill="#1e2a55" stroke="#c084fc" stroke-opacity="0.5"/>
+      <text x="60" y="22" text-anchor="middle" fill="#d8b4fe">SAML / OIDC</text>
+    </g>
+    <g transform="translate(434, 215)">
+      <rect width="120" height="34" rx="17" fill="#1e2a55" stroke="#38bdf8" stroke-opacity="0.5"/>
+      <text x="60" y="22" text-anchor="middle" fill="#7dd3fc">SSO / MFA</text>
+    </g>
+    <g transform="translate(566, 215)">
+      <rect width="80" height="34" rx="17" fill="#1e2a55" stroke="#818cf8" stroke-opacity="0.5"/>
+      <text x="40" y="22" text-anchor="middle" fill="#a5b4fc">RBAC</text>
+    </g>
+  </g>
+</svg>
