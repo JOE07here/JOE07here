@@ -19,7 +19,7 @@ Building verifiable, recruiter-facing proof of work across Identity & Access Man
 
 ~2 years hands-on Okta/IAM delivery in India → **Werkstudent IAM in Germany** → moving into a full-time IAM consultant role. EU work-authorized (residence permit valid through Sept 2027), targeting full-time conversion.
 
-Currently writing my thesis on **Zero Trust Architecture** — evaluating MidPoint and Keycloak against NIST SP 800-207.
+
 
 ---
 
@@ -150,7 +150,7 @@ Every lab writeup follows: *Problem → What I built → How it maps to a real I
 ## Languages
 
 - 🇬🇧 **English** — fluent
-- 🇩🇪 **German** — A2 (targeting Goethe B1, July 2026)
+- 🇩🇪 **German** — B1
 - 🇮🇳 Malayalam — native
 
 ---
