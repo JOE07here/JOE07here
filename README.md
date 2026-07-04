@@ -6,7 +6,6 @@
 # Joemon Johnson
 
 **IAM Engineer → Consultant** · Leipzig, Germany
-Building verifiable, recruiter-facing proof of work across Identity & Access Management.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joemon-johnson)
 [![Email](https://img.shields.io/badge/Email-d99523?style=flat&logo=gmail&logoColor=white)](mailto:joemonjohnsonme@gmail.com)
@@ -19,7 +18,7 @@ Building verifiable, recruiter-facing proof of work across Identity & Access Man
 
 ## About
 
-~2 years hands-on Okta/IAM delivery in India → **Werkstudent IAM in Germany** → moving into a full-time IAM consultant role. EU work-authorized (residence permit valid through Sept 2027), targeting full-time conversion.
+~2 years hands-on Okta/IAM delivery in India → **Werkstudent IAM in Germany**.
 
 ## Kurzprofil 🇩🇪
 
@@ -63,6 +62,7 @@ All claimed on Credly — verification links are being added to this page; proof
 
 ## Featured work
 
+- **[AgentLens](https://github.com/JOE07here/agentlens)** — browser-only risk scanner for non-human / AI-agent identities: correlates MidPoint + Keycloak exports and ranks over-privilege, dormancy, SoD and standing-credential risks (Next.js, TypeScript)
 - **MidPoint RBAC + SoD Lab** — role mining → role model → SoD policy on `demo.evolveum.com`
 - **Keycloak federation lab** — OIDC brokering, custom authenticator flows
 - **Zero Trust thesis** — MidPoint & Keycloak vs NIST SP 800-207 control mapping
