@@ -10,8 +10,10 @@ Building verifiable, recruiter-facing proof of work across Identity & Access Man
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joemon-johnson)
 [![Email](https://img.shields.io/badge/Email-d99523?style=flat&logo=gmail&logoColor=white)](mailto:joemonjohnsonme@gmail.com)
+<!-- Restore these two badges once the portfolio site is live and the Credly handle is filled in — they currently 404:
 [![Portfolio](https://img.shields.io/badge/Portfolio-10233f?style=flat&logo=astro&logoColor=white)](https://JOE07here.github.io)
 [![Credly](https://img.shields.io/badge/Verify_Credentials-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/<TODO-credly-handle>)
+-->
 
 ---
 
@@ -19,7 +21,14 @@ Building verifiable, recruiter-facing proof of work across Identity & Access Man
 
 ~2 years hands-on Okta/IAM delivery in India → **Werkstudent IAM in Germany** → moving into a full-time IAM consultant role. EU work-authorized (residence permit valid through Sept 2027), targeting full-time conversion.
 
+## Kurzprofil 🇩🇪
 
+IAM-Engineer mit rund zwei Jahren Praxiserfahrung (Okta, Microsoft Entra ID, Keycloak, MidPoint), derzeit Werkstudent im IAM-Bereich. Ich suche eine Festanstellung als **IAM Engineer / IAM Consultant** im DACH-Raum.
+
+- 📍 Leipzig, Deutschland
+- ✅ Gültige Aufenthalts- und Arbeitserlaubnis bis September 2027 — **kein Visa-Sponsoring erforderlich**
+- 🎓 Okta Certified Professional · Microsoft SC-300 / SC-100 · AZ-104
+- 🗣️ Deutsch A2 (Ziel: Goethe B1, Juli 2026) · Englisch fließend
 
 ---
 
@@ -37,7 +46,7 @@ Building verifiable, recruiter-facing proof of work across Identity & Access Man
 
 ## Certifications
 
-All claimed on Credly — every badge below has a one-click verify link on my portfolio.
+All claimed on Credly — verification links are being added to this page; proof available on request.
 
 - **Okta Certified Professional**
 - **Microsoft SC-300** — Identity and Access Administrator
@@ -46,7 +55,9 @@ All claimed on Credly — every badge below has a one-click verify link on my po
 - **Microsoft AZ-104** — Azure Administrator
 - **Microsoft AZ-900** — Azure Fundamentals
 
+<!-- Restore once the real handles are filled in — these currently 404:
 ➡ [Verify all credentials](https://www.credly.com/users/<TODO-credly-handle>) · [Microsoft Learn transcript](https://learn.microsoft.com/en-us/users/<TODO-ms-handle>/transcript/<TODO-share-id>)
+-->
 
 ---
 
@@ -55,7 +66,9 @@ All claimed on Credly — every badge below has a one-click verify link on my po
 - **MidPoint RBAC + SoD Lab** — role mining → role model → SoD policy on `demo.evolveum.com`
 - **Keycloak federation lab** — OIDC brokering, custom authenticator flows
 - **Zero Trust thesis** — MidPoint & Keycloak vs NIST SP 800-207 control mapping
-- **IAM portfolio site** — Astro + Tailwind, bilingual (EN/DE), GitHub Pages
+- **[Lernkarten](https://github.com/JOE07here/lernkarten)** — spaced-repetition flashcard app I built for my own German A1 prep (React + Vite + Firebase) · [live app](https://joe07here.github.io/lernkarten/)
+- **[Node blog platform](https://github.com/JOE07here/Node_blog_application)** — full-stack CRUD app (Node.js, Express, React, PostgreSQL) with Docker + Kubernetes deployment and CI/CD
+- **IAM portfolio site** — Astro + Tailwind, bilingual (EN/DE), GitHub Pages *(in progress)*
 
 Every lab writeup follows: *Problem → What I built → How it maps to a real IAM concept (JML / RBAC / SoD / ZTA) → Diagram → What broke & what I learned.*
 
@@ -166,4 +179,5 @@ Every lab writeup follows: *Problem → What I built → How it maps to a real I
 
 Hiring for IAM / Identity Engineer / IAM Consultant roles in DACH? Let's talk.
 
-📧 [joemonjohnsonme@gmail.com](mailto:joemonjohnsonme@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/joemon-johnson) · 📄 [Download CV](https://JOE07here.github.io/cv.pdf)
+📧 [joemonjohnsonme@gmail.com](mailto:joemonjohnsonme@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/joemon-johnson)
+<!-- Restore once the portfolio site hosts the CV: · 📄 [Download CV](https://JOE07here.github.io/cv.pdf) -->
