@@ -8,7 +8,7 @@
 **IAM Engineer → Consultant** · Leipzig, Germany
 Building verifiable, recruiter-facing proof of work across Identity & Access Management.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<TODO-linkedin-handle>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joemon-johnson)
 [![Email](https://img.shields.io/badge/Email-d99523?style=flat&logo=gmail&logoColor=white)](mailto:joemonjohnsonme@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-10233f?style=flat&logo=astro&logoColor=white)](https://JOE07here.github.io)
 [![Credly](https://img.shields.io/badge/Verify_Credentials-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/<TODO-credly-handle>)
@@ -166,4 +166,4 @@ Every lab writeup follows: *Problem → What I built → How it maps to a real I
 
 Hiring for IAM / Identity Engineer / IAM Consultant roles in DACH? Let's talk.
 
-📧 [joemonjohnsonme@gmail.com](mailto:joemonjohnsonme@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/<TODO-linkedin-handle>) · 📄 [Download CV](https://JOE07here.github.io/cv.pdf)
+📧 [joemonjohnsonme@gmail.com](mailto:joemonjohnsonme@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/joemon-johnson) · 📄 [Download CV](https://JOE07here.github.io/cv.pdf)
