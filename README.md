@@ -62,7 +62,7 @@ All claimed on Credly — verification links are being added to this page; proof
 
 ## Featured work
 
-- **[AgentLens](https://github.com/JOE07here/agentlens)** — browser-only risk scanner for non-human / AI-agent identities: correlates MidPoint + Keycloak exports and ranks over-privilege, dormancy, SoD and standing-credential risks (Next.js, TypeScript)
+- **[AgentLens](https://github.com/JOE07here/agentlens)** — browser-only risk scanner for non-human / AI-agent identities: correlates MidPoint + Keycloak exports and ranks over-privilege, dormancy, SoD and standing-credential risks (Next.js, TypeScript) · [live demo](https://joe07here.github.io/agentlens/)
 - **MidPoint RBAC + SoD Lab** — role mining → role model → SoD policy on `demo.evolveum.com`
 - **Keycloak federation lab** — OIDC brokering, custom authenticator flows
 - **Zero Trust thesis** — MidPoint & Keycloak vs NIST SP 800-207 control mapping
