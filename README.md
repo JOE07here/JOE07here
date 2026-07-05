@@ -63,8 +63,9 @@ All claimed on Credly — verification links are being added to this page; proof
 ## Featured work
 
 - **[AgentLens](https://github.com/JOE07here/agentlens)** — browser-only risk scanner for non-human / AI-agent identities: correlates MidPoint + Keycloak exports and ranks over-privilege, dormancy, SoD and standing-credential risks (Next.js, TypeScript) · [live demo](https://joe07here.github.io/agentlens/)
-- **MidPoint RBAC + SoD Lab** — role mining → role model → SoD policy on `demo.evolveum.com`
-- **Keycloak federation lab** — OIDC brokering, custom authenticator flows
+- **[MidPoint provisioning lab](https://github.com/JOE07here/iam-labs/tree/main/labs/01-midpoint-provisioning)** — end-to-end JML pipeline: HR source → midPoint 4.8 → OpenLDAP target, six-container Docker stack
+- **[MidPoint RBAC + SoD Lab](https://github.com/JOE07here/iam-labs/tree/main/labs/02-midpoint-rbac-sod)** — role mining → role model → SoD policy on `demo.evolveum.com`
+- **[Keycloak federation lab](https://github.com/JOE07here/iam-labs/tree/main/labs/03-keycloak-federation)** — OIDC brokering, custom authenticator flows
 - **Zero Trust thesis** — MidPoint & Keycloak vs NIST SP 800-207 control mapping
 - **[Lernkarten](https://github.com/JOE07here/lernkarten)** — spaced-repetition flashcard app I built for my own German A1 prep (React + Vite + Firebase) · [live app](https://joe07here.github.io/lernkarten/)
 - **[Node blog platform](https://github.com/JOE07here/Node_blog_application)** — full-stack CRUD app (Node.js, Express, React, PostgreSQL) with Docker + Kubernetes deployment and CI/CD
