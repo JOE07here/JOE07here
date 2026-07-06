@@ -9,8 +9,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joemon-johnson)
 [![Email](https://img.shields.io/badge/Email-d99523?style=flat&logo=gmail&logoColor=white)](mailto:joemonjohnsonme@gmail.com)
-<!-- Restore these two badges once the portfolio site is live and the Credly handle is filled in — they currently 404:
-[![Portfolio](https://img.shields.io/badge/Portfolio-10233f?style=flat&logo=astro&logoColor=white)](https://JOE07here.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10233f?style=flat&logo=nextdotjs&logoColor=white)](https://joe07here.github.io/iam-portfolio/)
+<!-- Restore once the Credly handle is filled in — currently 404s:
 [![Credly](https://img.shields.io/badge/Verify_Credentials-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/<TODO-credly-handle>)
 -->
 
@@ -69,7 +69,7 @@ All claimed on Credly — verification links are being added to this page; proof
 - **Zero Trust thesis** — MidPoint & Keycloak vs NIST SP 800-207 control mapping
 - **[Lernkarten](https://github.com/JOE07here/lernkarten)** — spaced-repetition flashcard app I built for my own German A1 prep (React + Vite + Firebase) · [live app](https://joe07here.github.io/lernkarten/)
 - **[Node blog platform](https://github.com/JOE07here/Node_blog_application)** — full-stack CRUD app (Node.js, Express, React, PostgreSQL) with Docker + Kubernetes deployment and CI/CD
-- **IAM portfolio site** — Astro + Tailwind, bilingual (EN/DE), GitHub Pages *(in progress)*
+- **[IAM portfolio site](https://github.com/JOE07here/iam-portfolio)** — recruiter-facing portfolio (Next.js + Tailwind, GitHub Pages) · [live site](https://joe07here.github.io/iam-portfolio/)
 
 Every lab writeup follows: *Problem → What I built → How it maps to a real IAM concept (JML / RBAC / SoD / ZTA) → Diagram → What broke & what I learned.*
 
@@ -181,4 +181,4 @@ Every lab writeup follows: *Problem → What I built → How it maps to a real I
 Hiring for IAM / Identity Engineer / IAM Consultant roles in DACH? Let's talk.
 
 📧 [joemonjohnsonme@gmail.com](mailto:joemonjohnsonme@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/joemon-johnson)
-<!-- Restore once the portfolio site hosts the CV: · 📄 [Download CV](https://JOE07here.github.io/cv.pdf) -->
+<!-- Restore once the CV file on the portfolio site resolves (the site links it but it 404s as of 2026-07-06): · 📄 [Download CV](https://joe07here.github.io/iam-portfolio/cv/Joemon_Johnson_CV.pdf) -->
